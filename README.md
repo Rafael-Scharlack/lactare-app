@@ -18,7 +18,7 @@ integração com API, Firebase ou banco de dados — todos os dados são **mocka
 | Maria Eduarda de Araujo Fernandes | 554593 |
 | Felipe Maringoli Teixeira | 556100 |
 
-**Link do repositório GitHub:** _adicionar aqui após o push_
+**Link do repositório GitHub:** [github.com/Rafael-Scharlack/lactare-app](https://github.com/Rafael-Scharlack/lactare-app)
 
 ---
 
@@ -129,10 +129,30 @@ misturada, e toda navegação passa pelo grafo central em `LactareNavGraph.kt`.
 
 ## Evidências de funcionamento
 
-> ⚠️ **Adicionar aqui antes da entrega:** prints de tela do app rodando no Android Studio/emulador/dispositivo físico, um para cada tela principal (Home, Como Funciona, Pontos de Coleta, Detalhe do Ponto, Cadastro, Rastreamento, Detalhe do Rastreamento, FAQ, Contato). Prints de Figma ou protótipos visuais não substituem os prints reais exigidos pelo enunciado.
+Prints do app rodando no emulador Android Studio (Medium Phone API 36.1):
 
-Versão do Android Studio utilizada: _preencher_
-Dispositivo/emulador utilizado: _preencher_
+| Home | Pontos de Coleta |
+|---|---|
+| ![Home](docs/screenshots/01-home.png) | ![Pontos de Coleta](docs/screenshots/02-pontos-de-coleta.png) |
+| Apresentação do Lactare, números de impacto e atalhos para as demais seções | Lista dos 30 municípios atendidos, com busca |
+
+| Rastreamento | Detalhe do Rastreamento |
+|---|---|
+| ![Rastreamento](docs/screenshots/03-rastreamento.png) | ![Detalhe do Rastreamento](docs/screenshots/04-rastreamento-detalhe.png) |
+| Busca por código de rastreamento, com chips de exemplo | Timeline das 8 etapas da doação `LAC2025`, com datas e progresso |
+
+| Mais | Como Funciona |
+|---|---|
+| ![Mais](docs/screenshots/05-mais.png) | ![Como Funciona](docs/screenshots/06-como-funciona.png) |
+| Menu de acesso a Como Funciona, FAQ e Contato | Os 5 passos do processo de doação |
+
+| Perguntas Frequentes | Contato / Suporte |
+|---|---|
+| ![FAQ](docs/screenshots/07-faq.png) | ![Contato](docs/screenshots/08-contato.png) |
+| 5 categorias de perguntas em formato de acordeão | Formulário de contato com a equipe do Lactare |
+
+Versão do Android Studio utilizada: Android Studio Panda 1 | 2025.3.1 Patch 1
+Dispositivo/emulador utilizado: Medium Phone API 36.1 (emulador Android)
 
 ---
 
