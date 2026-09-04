@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color lactare_amarelo
+color lactare_azul_ciano
+color lactare_azul_escuro
+color lactare_branco
+color lactare_rosa
+color lactare_turquesa
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Lactare
+xml backup_rules
+xml data_extraction_rules
